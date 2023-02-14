@@ -1,5 +1,4 @@
 #include <unistd.h>
-#include <stdio.h>
 
 int get_index(char x)
 {
